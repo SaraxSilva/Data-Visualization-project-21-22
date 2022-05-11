@@ -1,0 +1,12 @@
+gunicorn
+dash
+dash_renderer
+dash-core-components
+dash-bootstrap-components
+dash-html-components
+numpy 
+pandas
+datetime
+plotly
+requests
+streamlit

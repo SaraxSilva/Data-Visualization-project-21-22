@@ -1,0 +1,36 @@
+.pretty_box {
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #424140;
+  margin: 20px;
+}
+
+.pretty_box2 {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #6F6D6F;
+  margin: 10px;
+}
+
+
+.rc-slider-track {
+  background-color: #08BA14;
+}
+
+.rc-slider-dot-active {  
+  border-color: #08BA14;
+}
+
+.rc-slider-handle {
+  background-color: #08BA14;
+  border-color: #08BA14;
+}
+
+.rc-slider-handle:hover {
+  border-color: #08BA14;
+}
+
+.rc-slider-handle-active:active {
+  border-color: #08BA14;
+}
+
