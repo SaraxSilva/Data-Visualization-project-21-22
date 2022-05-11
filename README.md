@@ -1,2 +1,2 @@
-# DataVisualization
-Data Visualization project made by 3 students from NOVA IMS 
+# Data Visualization Project 2021-2022
+
